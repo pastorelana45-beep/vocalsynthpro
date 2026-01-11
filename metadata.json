@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VocalSynth Pro Studio",
+  "description": "A high-performance vocal-to-MIDI synthesizer and studio engine. Transform your voice into professional instruments in real-time with pitch detection, scale quantization, and advanced voice effects.copied",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
