@@ -27,7 +27,7 @@ export interface StudioSession {
 export interface Instrument {
   id: string;
   name: string;
-  category: 'PIANO' | 'STRINGS' | 'REED' | 'BRASS' | 'GUITAR' | 'SYNTH';
+  category: 'PIANO' | 'STRINGS' | 'REED' | 'BRASS' | 'GUITAR' | 'SYNTH' | 'PERCUSSION';
   icon?: string;
 }
 
