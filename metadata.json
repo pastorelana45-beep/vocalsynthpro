@@ -1,6 +1,23 @@
 {
-  "name": "Copy of VocalSynth Pro Studio",
-  "description": "A high-performance vocal-to-MIDI synthesizer and studio engine. Transform your voice into professional instruments in real-time with pitch detection, scale quantization, and advanced voice effects.copied",
+  "short_name": "VocalSynth",
+  "name": "VocalSynth Pro Studio",
+  "description": "A high-performance vocal-to-MIDI synthesizer and studio engine. Transform your voice into professional instruments in real-time.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
   "requestFramePermissions": [
     "microphone"
   ]
