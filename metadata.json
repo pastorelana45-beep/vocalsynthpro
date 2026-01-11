@@ -1,27 +1,23 @@
 {
   "short_name": "VocalSynth",
   "name": "VocalSynth Pro Studio",
-  "description": "A high-performance vocal-to-MIDI synthesizer and studio engine.",
+  "description": "Vocal synthesizer engine",
   "icons": [
     {
-      "src": "icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659744.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659744.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
     }
   ],
   "start_url": "/",
   "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#000000",
   "background_color": "#000000",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "theme_color": "#000000"
 }
